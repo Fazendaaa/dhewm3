@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  doom:
+    build: .
+    container_name: doom3-dhewm3
+
+  http:
